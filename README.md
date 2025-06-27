@@ -1,6 +1,8 @@
 # meshbot v 0.1
 Control **almost anything** with Meshtastic
 
+.
+
 ![serial](./data/meshbot-logo.png)
 
 The basic idea of this project is to create a small bot capable of **field operations**, or even a very simple **BBS** (Bulletin board system) based on microntrollers.
